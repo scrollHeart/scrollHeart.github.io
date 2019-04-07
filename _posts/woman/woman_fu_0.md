@@ -20,7 +20,7 @@ categories: [女性，妇科]
 
 阴道是分娩、妇科一些操作的必经之路，容易受到损伤和外界病原体的感染
 
-![高发年龄段](http://upload-images.jianshu.io/upload_images/1646107-55c95afc3ffa07d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/1646107-55c95afc3ffa07d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
@@ -45,7 +45,7 @@ categories: [女性，妇科]
   - 白带的情况是开始为白色，后发现白带中混有**豆腐渣样的白色块状物**，而且沾于外阴部，没有特殊气味
   - 阴道内和外阴十分瘙痒，夜里瘙痒感加重，身体状况也是不大好，甚至有在服用抗生素，性交后更明显
 
-![image](http://upload-images.jianshu.io/upload_images/1646107-f5a20005050f010a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/1646107-f5a20005050f010a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - **滴虫性阴道炎**：由于滴虫在阴道内寄生引起，多由性交感染，传染性非常强，也可能在浴室等地方被感染
   - 白带情况及伴随症状是深黄色白带或泛绿色白带，或带**血色的白带**，有时会有**泡沫，有腥臭味**，外阴奇痒，而且**排尿时有刺痛感**，走路摩擦也会痛，性交后症状明显
@@ -61,7 +61,7 @@ categories: [女性，妇科]
   * 长时间处于温暖潮湿的环境，更易于病菌生长
   * 阴道与菌群之间的生态平衡被打破，乳杆菌减少，有害菌种增加
 
-![image](http://upload-images.jianshu.io/upload_images/1646107-1ce64211addf29ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/1646107-1ce64211addf29ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
@@ -101,7 +101,7 @@ categories: [女性，妇科]
 
 **女性一旦出现外阴瘙痒、白带增多、白带异味等情况，要及时就医检查，看看是否患有阴道炎**
 
-![image](http://upload-images.jianshu.io/upload_images/1646107-cfbfa5a6ecfb4728.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/1646107-cfbfa5a6ecfb4728.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 炎症会给女性带来哪些危害呢
 
