@@ -18,19 +18,15 @@ categories: [女性,妇科]
  </div>
 ---
 
-
-<dl style="width: 100%;">
-<dt align="center" >    
+<div align="center" >    
  <img src="http://qny.sunyanyun.com/wm_3_1.png"  style="border: 1px solid #ccc;  padding: 1px; margin-bottom: 10px;" align=center />
-</dt>
-<dd>
+</div>
+
 <p style="width: 100%;">据统计，我国约有<b>25%</b>成年女性正忍受着慢性<b>便秘</b>困扰，是男性的<b>2-4倍</b></p>
 <p style="width: 100%;">约有<b>80%</b>的女性一生中会经历<b>泌尿道感染</b>，高于男性<b>8-10倍</b></p>
 <p style="width: 100%;"><b>20%</b>的慢性肾衰，性功能障碍、不育患者近<b>80%</b>都与尿道炎的病变有关</p>
 <p style="width: 100%;">女性常常出现明显的尿路刺激症状，如<b>尿频，尿急，尿痛</b>，还会出现脓尿，部分患者还可出现<b>血尿</b>,女性尿路感染同时也会引发<b>阴道各种炎症</b>！！</p>
 <b>并且很多人都不明白自己到底是怎么感染上妇科问题,问题反反复复得不到彻底的解决</b>
-</dd>
-</dl>
 
 
 ### 感染主要原因：女人泌尿生殖道的特点
