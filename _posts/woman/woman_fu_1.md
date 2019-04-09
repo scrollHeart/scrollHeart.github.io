@@ -16,7 +16,6 @@ categories: [女性,妇科]
 <div align="center" style="width: 100%; margin: 0 auto; border: 1px solid #ccc; padding: 1px;">    
  <img src="http://qny.sunyanyun.com/wm_3_13.png"   align=center  />
  </div>
----
 
 <div align="center" >    
  <img src="http://qny.sunyanyun.com/wm_3_1.png"  style="border: 1px solid #ccc;  padding: 1px; margin-bottom: 10px;" align=center />
