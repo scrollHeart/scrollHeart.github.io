@@ -5,6 +5,7 @@ tags: [护肤,健康]
 categories: [女性,妇科]
 
 ---
+## 呵护女性健康小课堂
 > 本文原创作者：俞凡老师（微信号：Chentao19901110 昵称：爱笑的好先生）
 > 转载请注明出处，仅供学习分享，未经作者同意，禁止商用，违者必究
 
@@ -19,10 +20,10 @@ categories: [女性,妇科]
 
 
 <dl style="width: 100%;">
-<dt align="center" style="width: 30%; float: left;" >    
- <img src="http://qny.sunyanyun.com/wm_3_1.png"  style="border: 1px solid #ccc; padding: 1px; margin-bottom: 10px;" alt="图片名称" align=center />
+<dt align="center" >    
+ <img src="http://qny.sunyanyun.com/wm_3_1.png"  style="border: 1px solid #ccc;  padding: 1px; margin-bottom: 10px;" align=center />
 </dt>
-<dd style="width: 65%; float: left; margin-left: 10px;">
+<dd>
 <p style="width: 100%;">据统计，我国约有<b>25%</b>成年女性正忍受着慢性<b>便秘</b>困扰，是男性的<b>2-4倍</b></p>
 <p style="width: 100%;">约有<b>80%</b>的女性一生中会经历<b>泌尿道感染</b>，高于男性<b>8-10倍</b></p>
 <p style="width: 100%;"><b>20%</b>的慢性肾衰，性功能障碍、不育患者近<b>80%</b>都与尿道炎的病变有关</p>
@@ -42,8 +43,8 @@ categories: [女性,妇科]
 
 
 
-<div align="center" style="width: 50%; margin: 0 auto; border: 1px solid #ccc; padding: 1px;">    
- <img src="http://qny.sunyanyun.com/wm_3_11.png"  alt="图片名称" align=center />
+<div align="center" style="width: 100%; margin: 0 auto; border: 1px solid #ccc; padding: 1px;">    
+ <img src="http://qny.sunyanyun.com/wm_3_11.png"   align=center />
 </div>
 
 
@@ -60,8 +61,8 @@ categories: [女性,妇科]
 
 最主要的**致病菌**或者条件致病菌为：**大肠杆菌，葡萄球菌，沙门氏菌，变形杆菌**
 
- <div align="center" style="width: 50%; margin: 0 auto; border: 1px solid #ccc; padding: 1px; margin-top: 20px;"> 
- <img src="http://qny.sunyanyun.com/wm_3_3.png"  alt="图片名称" align=center />
+ <div align="center" style="width: 100%; margin: 0 auto; border: 1px solid #ccc; padding: 1px; margin-top: 20px;"> 
+ <img src="http://qny.sunyanyun.com/wm_3_3.png"   align=center />
 </div>
 
 ### 二、阴道
@@ -82,8 +83,8 @@ categories: [女性,妇科]
 
 这这是阴道细菌的分布情况
 
-<div align="center" style="width: 50%; margin: 0 auto; border: 1px solid #ccc; padding: 1px;">    
- <img src="http://qny.sunyanyun.com/wm_3_12.png"  alt="图片名称" align=center />
+<div align="center" style="width: 100%; margin: 0 auto; border: 1px solid #ccc; padding: 1px;">    
+ <img src="http://qny.sunyanyun.com/wm_3_12.png"  align=center />
 </div>
 
 
@@ -129,8 +130,8 @@ categories: [女性,妇科]
 
 
 
-<div align="center" style="width: 50%; margin: 0 auto; border: 1px solid #ccc; padding: 1px;">    
- <img src="http://qny.sunyanyun.com/wm_3_10.png"  alt="图片名称" align=center />
+<div align="center" style="width: 100%; margin: 0 auto; border: 1px solid #ccc; padding: 1px;">    
+ <img src="http://qny.sunyanyun.com/wm_3_10.png"  align=center />
 </div>
 
 
@@ -144,15 +145,18 @@ categories: [女性,妇科]
 
 
 
-<div align="center" style="width: 50%; margin: 0 auto; border: 1px solid #ccc; padding: 1px;">    
- <img src="http://qny.sunyanyun.com/wm_3_9.png"  alt="图片名称" align=center />
+<div align="center" style="width: 100%; margin: 0 auto; border: 1px solid #ccc; padding: 1px;">    
+ <img src="http://qny.sunyanyun.com/wm_3_9.png" align=center />
 </div>
 
-
-<div align="center" style="width: 100%;  margin: 0 auto;  padding: 1px;">    
- <img src="http://qny.sunyanyun.com/wm_3_7.png"  style="width: 40%; float: left;" align=center />
- <img src="http://qny.sunyanyun.com/wm_3_8.png"  style="width: 40%; float: left;" align=center />  
+<div align="center" style="width: 100%; margin: 0 auto; border: 1px solid #ccc; padding: 1px;">    
+ <img src="http://qny.sunyanyun.com/wm_3_7.png" align=center />
 </div>
+
+<div align="center" style="width: 100%; margin: 0 auto; border: 1px solid #ccc; padding: 1px;">    
+ <img src="http://qny.sunyanyun.com/wm_3_8.png" align=center />
+</div>
+
 
 
 #### 女性健康第二步：改善尿道菌群-预防尿路感染 
@@ -166,7 +170,7 @@ categories: [女性,妇科]
 **蔓越莓里面的独有的原花青素的结构 能够帮助尿道把尿道里面的细菌排出去**
 
 
-<div align="center" style="width: 50%;  margin: 0 auto;  padding: 1px;"> 
+<div align="center" style="width: 100%;  margin: 0 auto;  padding: 1px;"> 
  <img src="http://qny.sunyanyun.com/wm_3_4.png" align=center />
  </div>
 
@@ -180,10 +184,14 @@ categories: [女性,妇科]
 
 **阴道感染的女性可以补充女性益生菌**，也是大家最近一直在关注的话题
 
-<div align="center" style="width: 604px; height: 184px; margin: 0 auto; border: 1px solid #ccc; padding: 1px;">    
- <img src="http://qny.sunyanyun.com/wm_3_2.png"  style="width: 300px; height: 240px; float: left;" align=center />
- <img src="http://qny.sunyanyun.com/wm_3_6.png" style="width: 300px; height: 240px; float: left;" alt="图片名称" align=center />
+<div align="center" style="width: 100%; margin: 0 auto; border: 1px solid #ccc; padding: 1px;">    
+ <img src="http://qny.sunyanyun.com/wm_3_2.png" align=center />
 </div>
+<div align="center" style="width: 100%; margin: 20px auto 0; border: 1px solid #ccc; padding: 1px;">    
+ <img src="http://qny.sunyanyun.com/wm_3_6.png" align=center />
+</div>
+
+
 ---
 
 以上是俞凡老师针对女性健康专题的分享课程。感兴趣或有疑问的小仙女们可以加俞凡老师微信，
